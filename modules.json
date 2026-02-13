@@ -1,0 +1,6 @@
+{
+    "MANAGED": {
+        "create_pvc_and_validate": "enabled",
+        "delete_pvc_and_validate": "enabled"
+    }
+}
