@@ -1,4 +1,4 @@
-# Build Project Using Maven
+# Build Project Using Maven and pom.xml
 
 Maven is java based build tool to generate executable 
 
